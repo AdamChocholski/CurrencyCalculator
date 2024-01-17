@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
@@ -48,7 +48,6 @@ function App() {
               <option value="EUR">EUR</option>
               <option value="PLN">PLN</option>
               <option value="JPY">JPY</option>
-              {/* Add other currency options as needed */}
             </select>
           </div>
           <div className="col-md-4">
@@ -62,7 +61,6 @@ function App() {
               <option value="EUR">EUR</option>
               <option value="PLN">PLN</option>
               <option value="JPY">JPY</option>
-              {/* Add other currency options as needed */}
             </select>
           </div>
         </div>
